@@ -6,8 +6,6 @@ Passionate about building AI-powered solutions that solve real-world problems th
 
 </p>
 
-[![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
-
 
 - 🎓 B.E. Computer Science & Engineering Student 
 - 🔭 Exploring AI, Machine Learning & Data Science
@@ -15,6 +13,9 @@ Passionate about building AI-powered solutions that solve real-world problems th
 - 💡 Passionate about technology and problem solving
 - 🌐 Active on GitHub, contributing to open-source projects
 - 📫 Reach me at: albrosalya@gmail.com
+
+[![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
+
   
 
 🚀 **PROJECT EXPERIENCE**
