@@ -15,7 +15,7 @@
 
 <br>
 
-**PROJECT EXPERIENCE**
+<h3> **PROJECT EXPERIENCE** </h3>
 
 *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
 - Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
@@ -36,7 +36,7 @@ Technologies: Python, OpenCV, MediaPipe
 
 <br>
 
-**CONNECT WITH ME**
+<h3> **CONNECT WITH ME** </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalya-g-2a767b307/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albrosalya@gmail.com)
