@@ -17,6 +17,7 @@ Passionate about building AI-powered solutions that solve real-world problems th
 🚀 **Project Experience**
 
 ♻️ Smart Garbage Monitoring System using YOLO8 | B.E. Final Year Project
+
 St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 - Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
 - Designed an admin dashboard for monitoring garbage submissions and disposal status.
@@ -25,6 +26,7 @@ St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 Technologies: Python, YOLOv8, OpenCV, Flutter, Firebase
 
 🚌 TrackMate – Real-Time College Bus Tracking System | B.E. Seventh Semester Project
+
 St. Xavier’s Catholic College of Engineering | July 2025 – Oct 2025
 - Developed a Flutter-based real-time bus tracking application.
 - Integrated Firebase for live GPS synchronization and cloud data storage.
