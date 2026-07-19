@@ -9,7 +9,7 @@ Passionate about building AI-powered solutions that solve real-world problems th
 [![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
 
 
-- 🎓 B.E. Computer Science & Engineering Student | CGPA: 7.98
+- 🎓 B.E. Computer Science & Engineering Student 
 - 🔭 Exploring AI, Machine Learning & Data Science
 - 🚀 Building real-world projects and improving every day
 - 💡 Passionate about technology and problem solving
