@@ -14,34 +14,27 @@ Passionate about building AI-powered solutions that solve real-world problems th
 - 🌐 Active on GitHub, contributing to open-source projects
 - 📫 Reach me at: albrosalya@gmail.com
 
-🚀 Featured Projects
+🚀 **Project Experience**
 
-♻️ Smart Garbage Monitoring System
-          YOLOv8-based waste classification system capable of identifying waste categories using Computer Vision.
+♻️ Smart Garbage Monitoring System using YOLO8 | B.E. Final Year Project
+St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
+- Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
+- Designed an admin dashboard for monitoring garbage submissions and disposal status.
+- Integrated Flutter with Firebase for real-time data management.
+- Preprocessed image datasets using OpenCV to improve model performance.
+Technologies: Python, YOLOv8, OpenCV, Flutter, Firebase
 
-**Technologies:**
-- YOLOv8
-- FastAPI
-- Flutter
-- Firebase
-  
+🚌 TrackMate – Real-Time College Bus Tracking System | B.E. Seventh Semester Project
+St. Xavier’s Catholic College of Engineering | July 2025 – Oct 2025
+- Developed a Flutter-based real-time bus tracking application.
+- Integrated Firebase for live GPS synchronization and cloud data storage.
+- Implemented route visualization and ETA estimation using Google Maps API.
+Technologies: Flutter, Firebase, Google Maps API
 
-🚌 TrackMate – College Bus Tracking System
-          Real-time college bus tracking application with ETA prediction and live location monitoring.
-
-**Technologies:**
-- Flutter
-- Firebase
-- Google Maps API
-
-
-✋ AI Hand Gesture Controller
+✋ AI Hand Gesture Controller 
           Computer Vision application that enables gesture-based system control using a webcam.
 
-**Technologies:**
-- Python
-- OpenCV
-- MediaPipe
+Technologies: Python, OpenCV, MediaPipe
 
 👍🏼 Connect with Me
 
