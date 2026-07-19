@@ -10,4 +10,4 @@ Tech Stack:
 - 📫 Reach me at: albrosalya@gmail.com
 - 😄 Pronouns: She/Her
 
-[![Rosalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosalyaa)](https://github.com/rosalyaa/github-readme-stats)
+![Rosalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosalyaa&show_icons=true&theme=tokyonight)
