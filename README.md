@@ -15,6 +15,14 @@
 
 <br>
 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosalyaa&show_icons=true&theme=tokyonight)
+<br>
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosalyaa&layout=compact&theme=tokyonight)
+<br>
+
 <h3> PROJECT EXPERIENCE </h3>
 
 *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
