@@ -46,5 +46,5 @@ Passionate about building AI-powered solutions that solve real-world problems th
 👍🏼 Connect with Me
 
 [LindeIn](https://www.linkedin.com/in/rosalya-g-2a767b307/)
-[Email](albrosalya@gmail.com)
+[Email](mailto:albrosalya@gmail.com))
 
