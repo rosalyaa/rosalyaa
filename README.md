@@ -18,22 +18,22 @@ Passionate about building AI-powered solutions that solve real-world problems th
 
 <br>
 
-🚀 **PROJECT EXPERIENCE**
+**PROJECT EXPERIENCE**
 
-♻️ *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
+*Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
 - Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
 - Designed an admin dashboard for monitoring garbage submissions and disposal status.
 - Integrated Flutter with Firebase for real-time data management.
 - Preprocessed image datasets using OpenCV to improve model performance.
 Technologies: Python, YOLOv8, OpenCV, Flutter, Firebase
 
-🚌 *TrackMate – Real-Time College Bus Tracking System* | B.E. Seventh Semester Project
+*TrackMate – Real-Time College Bus Tracking System* | B.E. Seventh Semester Project
 - Developed a Flutter-based real-time bus tracking application.
 - Integrated Firebase for live GPS synchronization and cloud data storage.
 - Implemented route visualization and ETA estimation using Google Maps API.
 Technologies: Flutter, Firebase, Google Maps API
 
-✋ *AI Hand Gesture Controller*
+*AI Hand Gesture Controller*
 - Computer Vision application that enables gesture-based system control using a webcam.
 Technologies: Python, OpenCV, MediaPipe
 
