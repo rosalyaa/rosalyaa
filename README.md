@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rosalya </h1>
 <p align="center">
 
+
 Passionate about building AI-powered solutions that solve real-world problems through Machine Learning, Computer Vision, and Data Analytics.
 
 </p>
 
 [![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
+
 
 - 🎓 B.E. Computer Science & Engineering Student | CGPA: 7.98
 - 🔭 Exploring AI, Machine Learning & Data Science
@@ -13,12 +15,11 @@ Passionate about building AI-powered solutions that solve real-world problems th
 - 💡 Passionate about technology and problem solving
 - 🌐 Active on GitHub, contributing to open-source projects
 - 📫 Reach me at: albrosalya@gmail.com
+  
 
 🚀 **PROJECT EXPERIENCE**
 
 ♻️ *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
-
-St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 - Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
 - Designed an admin dashboard for monitoring garbage submissions and disposal status.
 - Integrated Flutter with Firebase for real-time data management.
@@ -26,17 +27,15 @@ St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 Technologies: Python, YOLOv8, OpenCV, Flutter, Firebase
 
 🚌 *TrackMate – Real-Time College Bus Tracking System* | B.E. Seventh Semester Project
-
-St. Xavier’s Catholic College of Engineering | July 2025 – Oct 2025
 - Developed a Flutter-based real-time bus tracking application.
 - Integrated Firebase for live GPS synchronization and cloud data storage.
 - Implemented route visualization and ETA estimation using Google Maps API.
 Technologies: Flutter, Firebase, Google Maps API
 
 ✋ *AI Hand Gesture Controller*
-          Computer Vision application that enables gesture-based system control using a webcam.
-
+- Computer Vision application that enables gesture-based system control using a webcam.
 Technologies: Python, OpenCV, MediaPipe
+
 
 **CONNECT WITH ME**
 
