@@ -5,18 +5,18 @@ Passionate about building AI-powered solutions that solve real-world problems th
 
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
+[![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
 
-- 🎓 B.E. Computer Science & Engineering Student
+- 🎓 B.E. Computer Science & Engineering Student | CGPA: 7.98
 - 🔭 Exploring AI, Machine Learning & Data Science
 - 🚀 Building real-world projects and improving every day
 - 💡 Passionate about technology and problem solving
 - 🌐 Active on GitHub, contributing to open-source projects
 - 📫 Reach me at: albrosalya@gmail.com
 
-🚀 **Project Experience**
+🚀 **PROJECT EXPERIENCE**
 
-♻️ Smart Garbage Monitoring System using YOLO8 | B.E. Final Year Project
+♻️ *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
 
 St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 - Developed a YOLOv8-based waste classification system trained on 5,000+ labeled images.
@@ -25,7 +25,7 @@ St. Xavier’s Catholic College of Engineering | Jan 2026 – April 2026
 - Preprocessed image datasets using OpenCV to improve model performance.
 Technologies: Python, YOLOv8, OpenCV, Flutter, Firebase
 
-🚌 TrackMate – Real-Time College Bus Tracking System | B.E. Seventh Semester Project
+🚌 *TrackMate – Real-Time College Bus Tracking System* | B.E. Seventh Semester Project
 
 St. Xavier’s Catholic College of Engineering | July 2025 – Oct 2025
 - Developed a Flutter-based real-time bus tracking application.
@@ -33,12 +33,12 @@ St. Xavier’s Catholic College of Engineering | July 2025 – Oct 2025
 - Implemented route visualization and ETA estimation using Google Maps API.
 Technologies: Flutter, Firebase, Google Maps API
 
-✋ AI Hand Gesture Controller 
+✋ *AI Hand Gesture Controller*
           Computer Vision application that enables gesture-based system control using a webcam.
 
 Technologies: Python, OpenCV, MediaPipe
 
-👍🏼 Connect with Me
+**CONNECT WITH ME**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalya-g-2a767b307/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albrosalya@gmail.com)
