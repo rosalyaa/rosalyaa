@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rosalya </h1>
 <p align="center">
 
-
-Passionate about building AI-powered solutions that solve real-world problems through Machine Learning, Computer Vision, and Data Analytics.
-
 </p>
-
+<br>
 
 - 🎓 B.E. Computer Science & Engineering Student 
 - 🔭 Exploring AI, Machine Learning & Data Science
