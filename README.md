@@ -16,7 +16,7 @@ Passionate about building AI-powered solutions that solve real-world problems th
 
 [![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
 
-  
+<br>
 
 🚀 **PROJECT EXPERIENCE**
 
@@ -37,6 +37,7 @@ Technologies: Flutter, Firebase, Google Maps API
 - Computer Vision application that enables gesture-based system control using a webcam.
 Technologies: Python, OpenCV, MediaPipe
 
+<br>
 
 **CONNECT WITH ME**
 
