@@ -11,5 +11,4 @@ Tech Stack:
 - 😄 Pronouns: She/Her
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rosalyaa&show_icons=true&theme=tokyonight)
