@@ -1,5 +1,4 @@
-## Hi, I'm rosalya 👋
-
+<h1 align="center">Hi 👋, I'm Rosalya </h1>
 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
