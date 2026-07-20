@@ -4,7 +4,7 @@
 </p>
 <br>
 
-- 🎓 B.E. Computer Science & Engineering Student 
+- 🎓 B.E. Computer Science & Engineering (CSE)
 - 🔭 Exploring AI, Machine Learning & Data Science
 - 🚀 Building real-world projects and improving every day
 - 💡 Passionate about technology and problem solving
