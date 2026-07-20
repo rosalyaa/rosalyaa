@@ -33,15 +33,16 @@
 - Implemented route visualization and ETA estimation using Google Maps API.
 - Technologies: Flutter, Firebase, Google Maps API
 
-*AI Hand Gesture Controller*
-- Computer Vision application that enables gesture-based system control using a webcam.
-- Technologies: Python, OpenCV, MediaPipe, CVZone, NumPy
 <p align="left">
 <a href="https://github.com/rosalyaa/AI-Hand-Gesture-Controller" target="_blank">
   <img src="https://img.shields.io/badge/🖐️AI Hand Gesture Controller-FF1493?style=for-the-badge" />
 </a>
 </p>
 <br>
+
+- Computer Vision application that enables gesture-based system control using a webcam.
+- Technologies: Python, OpenCV, MediaPipe, CVZone, NumPy
+
 
 
 <h3> GITHUB STATS </h3>
