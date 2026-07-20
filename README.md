@@ -61,7 +61,7 @@ Technologies: Python, OpenCV, MediaPipe
 
 <br>
 
-<h3> CONTRIBUTIONS </h3>
+<h3> CONTRIBUTION SNAKE </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/codertheashish/codertheashish/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
@@ -71,5 +71,5 @@ Technologies: Python, OpenCV, MediaPipe
 
 <h3> STREAKS </h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rosalyaa&theme=tokyonight&hide_border=true" />
 </p>
