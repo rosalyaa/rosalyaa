@@ -40,9 +40,6 @@
 </p>
 <br>
 
-- Computer Vision application that enables gesture-based system control using a webcam.
-- Technologies: Python, OpenCV, MediaPipe, CVZone, NumPy
-
 
 
 <h3> GITHUB STATS </h3>
