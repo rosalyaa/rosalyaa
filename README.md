@@ -11,6 +11,8 @@
 - 🌐 Active on GitHub, contributing to open-source projects
 - 📫 Reach me at: albrosalya@gmail.com
 
+<br>
+<h3> SKILLS </h3>
 [![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
 
 <br>
