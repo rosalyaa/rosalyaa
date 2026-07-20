@@ -18,7 +18,6 @@
 
 <br>
 
-
 <h3> PROJECT EXPERIENCE </h3>
 
 *Smart Garbage Monitoring System using YOLO8* | B.E. Final Year Project
