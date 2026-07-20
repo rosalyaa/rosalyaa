@@ -37,14 +37,6 @@ Technologies: Python, OpenCV, MediaPipe
 
 <br>
 
-<h3> CONNECT WITH ME </h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalya-g-2a767b307/) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albrosalya@gmail.com)
-
-
-<br>
-
 
 <h3> GITHUB STATS </h3>
 <p align="center">
@@ -61,15 +53,15 @@ Technologies: Python, OpenCV, MediaPipe
 
 <br>
 
-<h3> CONTRIBUTION SNAKE </h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codertheashish/codertheashish/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-<br>
-
 <h3> STREAKS </h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rosalyaa&theme=tokyonight&hide_border=true" />
 </p>
+
+<h3> CONNECT WITH ME </h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalya-g-2a767b307/) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albrosalya@gmail.com)
+
+
+<br>
