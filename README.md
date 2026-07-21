@@ -37,7 +37,6 @@
 <a href="https://github.com/rosalyaa/AI-Hand-Gesture-Controller" target="_blank">
   <img src="https://img.shields.io/badge/Hand Gesture Controller-FF1493?style=for-the-badge" />
 </a>
-</p>
 
 <p align="center">
 <a href="https://github.com/rosalyaa/AI-Career-Mentor" target="_blank">
