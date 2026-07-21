@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rosalya </h1>
+<h2 align="center">Hi 👋, I'm Rosalya </h2>
 <p align="center">
 
 </p>
@@ -12,13 +12,12 @@
 - Reach me at: albrosalya@gmail.com
 
 <br>
-<p align="center"><h2> SKILLS </h2>
+<h3> SKILLS </h3>
 
 [![SKILLS](https://skillicons.dev/icons?i=python,java,tensorflow,opencv,firebase,mysql,git,github,vscode,html,css)](https://skillicons.dev)
-</p>
 <br>
 
-<h2> PROJECT EXPERIENCE </h2>
+<h3> PROJECT EXPERIENCE </h3>
 
 <p align="left">
 <a href="https://github.com/rosalyaa/AI-Hand-Gesture-Controller" target="_blank">
@@ -32,14 +31,14 @@
 <br>
 
 
-<h2> GITHUB STATS </h2>
+<h3> GITHUB STATS </h3>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rosalyaa&show_icons=true&theme=tokyonight" />
 </p>
 
 <br>
 
-<h2> MOST USED LANGUAGES </h2>
+<h3> MOST USED LANGUAGES </h3>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rosalyaa&layout=compact&theme=tokyonight" />
@@ -47,12 +46,12 @@
 
 <br>
 
-<h2> STREAKS </h2>
+<h3> STREAKS </h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rosalyaa&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2> CONNECT WITH ME </h2>
+<h3> CONNECT WITH ME </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalya-g-2a767b307/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albrosalya@gmail.com)
