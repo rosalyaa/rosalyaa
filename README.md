@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Hand Gesture Controller-FF1493?style=for-the-badge" />
 </a>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/rosalyaa/AI-Career-Mentor" target="_blank">
   <img src="https://img.shields.io/badge/AI Career Mentor-462afa?style=for-the-badge" />
 </a>
