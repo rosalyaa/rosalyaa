@@ -35,13 +35,13 @@
 
 <p align="left">
 <a href="https://github.com/rosalyaa/AI-Hand-Gesture-Controller" target="_blank">
-  <img src="https://img.shields.io/badge/🖐️Hand Gesture Controller-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hand Gesture Controller-FF1493?style=for-the-badge" />
 </a>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/rosalyaa/AI-Career-Mentor" target="_blank">
-  <img src="https://img.shields.io/badge/🖐️AI Career Mentor-9514ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI Career Mentor-462afa?style=for-the-badge" />
 </a>
 </p>
 <br>
