@@ -21,19 +21,19 @@
 
 <p align="left">
 <a href="https://github.com/rosalyaa/AI-Hand-Gesture-Controller" target="_blank">
-  <img src="https://img.shields.io/badge/Hand Gesture Controller-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hand Gesture Controller-024cf7?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/rosalyaa/AI-Career-Mentor" target="_blank">
-  <img src="https://img.shields.io/badge/AI Career Mentor-462afa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI Career Mentor-f7029d?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/rosalyaa/track-mate" target="_blank">
-  <img src="https://img.shields.io/badge/Track Mate-c014ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Track Mate-8902f7?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/rosalyaa/spinlearn" target="_blank">
-  <img src="https://img.shields.io/badge/SpinLearn-14ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpinLearn-f70202?style=for-the-badge" />
 </a>
 
 </p>
