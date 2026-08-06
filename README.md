@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/Track Mate-c014ff?style=for-the-badge" />
 </a>
 
+<a href="https://github.com/rosalyaa/spinlearn" target="_blank">
+  <img src="https://img.shields.io/badge/SpinLearn-c014ff?style=for-the-badge" />
+</a>
 
 </p>
 <br>
