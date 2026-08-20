@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://github.com/rosalyaa/garbage-classification" target="_blank">
-  <img src="https://img.shields.io/badge/Garbage Classification-1bc293?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Garbage Classification-0b6e5d?style=for-the-badge" />
 </a>
 
 
