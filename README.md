@@ -36,6 +36,11 @@
   <img src="https://img.shields.io/badge/SpinLearn-1f1bc2?style=for-the-badge" />
 </a>
 
+<a href="https://github.com/rosalyaa/garbage-classification" target="_blank">
+  <img src="https://img.shields.io/badge/Garbage Classification-1bc25e?style=for-the-badge" />
+</a>
+
+
 </p>
 <br>
 
